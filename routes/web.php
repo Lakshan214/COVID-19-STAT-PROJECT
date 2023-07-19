@@ -19,7 +19,6 @@ Auth::routes();
 
 
 Route::get('/', [CovidDataController::class, 'index']);
-Route::get('/redirect', [CovidDataController::class, 'redirect'])->name('redirect');
 Route::get('/help-guides', [HelpGuideController::class, 'index'])->name('help-guides.index');
 Route::middleware('auth')->group(function () {
     Route::get('/help-guides/create', [HelpGuideController::class, 'create']);

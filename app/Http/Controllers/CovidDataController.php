@@ -11,13 +11,9 @@ class CovidDataController extends Controller
     {
         $covidData = CovidData::latest()->first();
          
-        return view('Home', compact('covidData'));
+        return view('home', compact('covidData'));
     }
 
-    public function redirect()
-    {
-     $covidData = CovidData::latest()->first();
-     return view('Home', compact('covidData')); 
-    }
+   
 }
 
