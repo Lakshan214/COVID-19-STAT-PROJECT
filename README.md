@@ -1,4 +1,8 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-l![f1](https://githu![2](https://github.com/Lakshan214/COVID-19-STAT-PROJECT/assets/111107497/6ff26631-c482-43cc-9bf6-2101125d![2](https://github.com/Lakshan214/COVID-19-STAT-PROJECT/assets/111107497/589c67cb-a683-4bd1-976d-f743121a9f76)
+2877)
+b.com/Laks![f1](https://github.com/Lakshan214/COVID-19-STAT-PROJECT/assets/111107497/d08c5d2a-7489-4c6e-832f-a282e66ed467)
+han214/COVID-19-STAT-PROJECT/assets/111107497/d6216db9-75ff-45c4-96fb-9a497a9a08cc)
+ockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
